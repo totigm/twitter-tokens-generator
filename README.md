@@ -1,4 +1,4 @@
-# Twitter OAuth Keys Generator
+# Twitter OAuth Tokens Generator
 
 This is a Twitter authentication tokens generator for [v1.1](https://developer.twitter.com/en/docs/twitter-api/v1) and [v2](https://developer.twitter.com/en/docs/twitter-api/early-access) apps that use OAuth.
 
