@@ -30,3 +30,26 @@ CONSUMER_SECRET=YOUR_CONSUMER_SECRET
 -   Run `yarn start` or `npm start` and wait for your browser to open.
 -   Log in with your Twitter account that is going to be controlled by your Twitter application, or in case you are already logged in, just authorize it.
 -   Once it's finished, every key and token are going to be copied to your clipboard. Just paste them where you need.
+
+## 💖 Support the project
+
+If you like what we do and want to encourage us to continue creating stuff, starring and sharing this project would be really appreciated!
+
+## ✨ Contributing
+
+Contributions are more than welcome!
+
+We think that you might have great ideas to make this project better, so if you do, please create a pull request and/or issue.
+
+## 😃 Authors
+
+-   [Totigm](https://github.com/totigm)
+-   [Hernancano98](https://github.com/Hernancano98)
+
+## 📄 License
+
+[MIT](./LICENSE)
+
+<hr />
+
+This project was made with ❤ and JavaScript
