@@ -37,7 +37,7 @@ app.get("/twitter/callback", (req, res) => {
             CONSUMER_KEY: credentials.consumerKey,
             CONSUMER_SECRET: credentials.consumerSecret,
             ACCESS_TOKEN: user.userToken,
-            SECRET_ACCESS_TOKEN: user.userTokenSecret,
+            ACCESS_TOKEN_SECRET: user.userTokenSecret,
         };
 
         let credentialsString = "";
