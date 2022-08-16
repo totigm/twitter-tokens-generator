@@ -39,7 +39,7 @@ If you like what we do and want to encourage us to continue creating stuff, star
 
 Contributions are more than welcome!
 
-We think that you might have great ideas to make this project better, so if you do, please create a pull request and/or issue.
+We think that you might have great ideas to make this project better. If you do, please create a pull request and/or issue following the [contribution guidelines](./docs/CONTRIBUTING.md).
 
 ## 😃 Authors
 
