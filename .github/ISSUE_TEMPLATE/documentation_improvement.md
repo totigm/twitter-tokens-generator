@@ -8,7 +8,7 @@ assignees: totigm, Hernancano98
 ---
 
 ### Document reference
-A [link](https://github.com/totigm/twitter-crypto-bot#readme) to the document to improve, and which part needs improvement.
+A [link](https://github.com/totigm/twitter-tokens-generator#readme) to the document to improve, and which part needs improvement.
 
 ### Describe your request
 What is wrong with this document? How can it be improved?
